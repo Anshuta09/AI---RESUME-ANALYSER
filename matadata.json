@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Resume Insight",
+  "description": "A high-performance AI-powered resume analyzer that provides deep insights into ATS compatibility, keyword optimization, and professional formatting to help candidates land their dream jobs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
